@@ -12,7 +12,7 @@ Zine de 3 hojas, con 10 páginas portada y contraportada.
 
 Distribuido de tal manera que en cada par de páginas se exponga un concepto, relaciones, contradicciones y alternativas,  logrando que se expongan los temas de manera atomizada en 5 secciones dentro de las 10 paginas útiles. 
 
-Portada: Titulo, ilustracion. 
+Portada: Titulo, ilustración. 
 
 Pagina 1 y 2: La Aldea digital. Introducción y panorama. Ilustración completa en pagina 1 y texto con ilustraciones en pagina 2. 
 
