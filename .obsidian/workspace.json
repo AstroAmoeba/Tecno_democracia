@@ -125,7 +125,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f28acea949efc6c4",
+  "active": "74285343ae6c5b56",
   "lastOpenFiles": [
     "Tecnologia_y_democracia/Zine/Ideas.md",
     "Tecnologia_y_democracia/Zine/Boceto.md",
