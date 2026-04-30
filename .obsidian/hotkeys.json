@@ -1,0 +1,18 @@
+{
+  "obsidian-zotero-desktop-connector:zdc-Format #1": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-APA 7": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
+    }
+  ]
+}

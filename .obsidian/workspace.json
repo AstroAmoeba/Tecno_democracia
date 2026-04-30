@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "3c273e31b1fa3b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0583099dbc55691e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28acea949efc6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Feudalismo tecnológico"
+            }
+          },
+          {
+            "id": "67b04d9ba4f96b20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70a8f079eced724d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2dd631f0d7aeb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e3b93fd790df557",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74285343ae6c5b56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62eccc0f4b9f44aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "e82d06fff760c3f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e514acf046d6dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f2e5858de816f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan de Trabajo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plan de Trabajo"
+            }
+          },
+          {
+            "id": "4f14b295605ea273",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plan de Trabajo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plan de Trabajo"
+            }
+          },
+          {
+            "id": "ae049de442c3e91c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee354ac738cdd591",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "af956cca0a1b0ca9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plan de Trabajo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plan de Trabajo"
+            }
+          },
+          {
+            "id": "7ff54e4c4541ac5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9e3b93fd790df557",
+  "lastOpenFiles": [
+    "Tecnologia_y_democracia",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
+    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia/Mapa temático.canvas",
+    "Tecnologia_y_democracia/Ruta de Investigación.md",
+    "Tecnologia_y_democracia/Plan de Trabajo.md",
+    "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Privacidad.md",
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
+    "Tecnologia_y_democracia/Notas/Relaciones/Relación ciencia y democracia.md",
+    "Tecnologia_y_democracia/Notas/Relaciones/Relación democracia y tecnología.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
+    "Tecnologia_y_democracia/Imagenes/Pasted image 20260424030919.png",
+    "Tecnologia_y_democracia/Imagenes/Pasted image 20260424031000.png",
+    "Tecnologia_y_democracia/Imagenes",
+    "Notas/Mapa de preguntas.canvas",
+    "create a link.md",
+    "Welcome.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos",
+    "Tecnologia_y_democracia/Zine/Ideas.md",
+    "Untitled.base",
+    "Tecnologia_y_democracia/Notas/Relaciones",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad",
+    "Tecnologia_y_democracia/Notas/Catedral y Bazar",
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico",
+    "Tecnologia_y_democracia/Artículo",
+    "Tecnologia_y_democracia/Zine",
+    "Tecnologia_y_democracia/Notas"
+  ]
+}

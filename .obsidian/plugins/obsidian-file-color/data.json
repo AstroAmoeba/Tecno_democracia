@@ -1,0 +1,58 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Ub8KeUzkixWCmFoibfJ1q",
+      "name": "Pale Blue",
+      "value": "#6fa4ce"
+    },
+    {
+      "id": "N3ZKXIf7uog9XCEWJH5ZM",
+      "name": "Green",
+      "value": "#55aa6f"
+    },
+    {
+      "id": "gZmAA4A9ghhBDJUpY3agc",
+      "name": "Orange Box",
+      "value": "#c78a52"
+    },
+    {
+      "id": "1Mt0uL4BvJ5WMZYK0wLCG",
+      "name": "Banana",
+      "value": "#b6b47c"
+    },
+    {
+      "id": "clFhSTQDXNloTRtLVwf32",
+      "name": "Purple Rain",
+      "value": "#62489d"
+    },
+    {
+      "id": "fTcfkfsJ6CAkOWG90Smzn",
+      "name": "Espeon",
+      "value": "#ce97ba"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
+      "color": "N3ZKXIf7uog9XCEWJH5ZM"
+    },
+    {
+      "path": "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
+      "color": "1Mt0uL4BvJ5WMZYK0wLCG"
+    },
+    {
+      "path": "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+      "color": "N3ZKXIf7uog9XCEWJH5ZM"
+    },
+    {
+      "path": "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
+      "color": "N3ZKXIf7uog9XCEWJH5ZM"
+    },
+    {
+      "path": "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
+      "color": "N3ZKXIf7uog9XCEWJH5ZM"
+    }
+  ]
+}
