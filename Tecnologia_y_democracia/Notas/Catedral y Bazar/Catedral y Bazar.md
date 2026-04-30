@@ -12,6 +12,9 @@ Este ensayo de Eric S. Raymond analiza la evolución del desarrollo de software 
 ● I grew my beta list by adding to it everyone who contacted me about fetchmail.
 ● ==I sent chatty announcements to the beta list whenever I released, encouraging  people to participate.==
 ==● And I listened to my beta-testers, polling them about design decisions and stroking  them whenever they sent in patches and feedback.== (Raymond, n.d.)
+
+
+
 # Preguntas
 ## ¿Qué? Una definición de los conceptos 
 
