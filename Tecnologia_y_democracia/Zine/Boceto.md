@@ -44,3 +44,5 @@ En la Edad Media, los señores feudales eran dueños de las tierras y las riquez
 
 Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta. Facebook, X, Amazon y similares no son gratuitos: el producto eres tu. 
 
+
+La aldea digital
