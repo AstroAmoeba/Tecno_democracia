@@ -29,6 +29,7 @@ Contraportada: Fuentes, ligas, etc.
 
 ## Contenido
 ### La aldea digital
+%% Foreword / Panorama %%
 
 ?Qué Posible relación pueden tener la tecnología, sus grandes empresas, la ciencia, la brujería, la democracia y el feudalismo? Todos son personajes y escenarios de este relato. 
 
@@ -40,9 +41,28 @@ La aldea digital somos todos nosotros los que ***interactuamos*** en y con las p
 
 ### Los señores (Tecno) Feudales
 
+%% Sistema centralizado, tecno feudalismo vs democracia %%
+
 En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
 
 Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta. Facebook, X, Amazon y similares no son gratuitos: el producto eres tu. 
 
+%% Final enlace: "No todo tiene que ser así" %%
+### La catedral y el bazar
+%% Sistemas centralizados vs descentralizados %%
 
-La aldea digital
+texto lmao
+
+
+
+### La torre de marfil
+%% Cientificismo vs pluralismo  %%
+
+Texto lmao rip
+
+### La democracia
+%% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
+
+taxto por dos y asi 
+
+
