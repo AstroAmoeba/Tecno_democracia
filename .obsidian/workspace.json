@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Boceto.md",
+                "file": "Tecnologia_y_democracia/Plan de Trabajo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boceto"
+              "title": "Plan de Trabajo"
             }
           },
           {
@@ -47,8 +47,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Mapa temático"
             }
+          },
+          {
+            "id": "501291f282a9f679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia_y_democracia/Zine/Boceto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Boceto"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,13 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e1f6dcbf51ee7ec",
+  "active": "501291f282a9f679",
   "lastOpenFiles": [
-    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
-    "Tecnologia_y_democracia/Zine/Boceto.md",
-    "Tecnologia_y_democracia/Zine/Ideas.md",
-    "Tecnologia_y_democracia/Mapa temático.canvas",
     "Tecnologia_y_democracia/Plan de Trabajo.md",
+    "Tecnologia_y_democracia/Mapa temático.canvas",
+    "Tecnologia_y_democracia/Zine/Boceto.md",
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
+    "Tecnologia_y_democracia/Zine/Ideas.md",
     "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación democracia y tecnología.md",
