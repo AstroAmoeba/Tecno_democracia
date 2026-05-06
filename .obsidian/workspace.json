@@ -39,9 +39,9 @@
               "state": {
                 "file": "Tecnologia_y_democracia/Mapa temático.canvas",
                 "viewState": {
-                  "x": 29.096952104499252,
-                  "y": 366.3129172714078,
-                  "zoom": -1.0512180190447824
+                  "x": 158.0453141824055,
+                  "y": 195.57083589647638,
+                  "zoom": -0.5512180190447824
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,11 +246,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "501291f282a9f679",
+  "active": "162d922467681f9a",
   "lastOpenFiles": [
+    "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Plan de Trabajo.md",
     "Tecnologia_y_democracia/Mapa temático.canvas",
-    "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
     "Tecnologia_y_democracia/Zine/Ideas.md",
     "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
