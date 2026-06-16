@@ -11,7 +11,7 @@
 		{"id":"7d679a64428d101c","type":"text","text":"Relación entre comunidades académicas y tecnología","x":-133,"y":200,"width":250,"height":60,"color":"2"},
 		{"id":"049242b0e98deea9","type":"text","text":"Modelos centralizados y descentralizados\n(Catedral y bazar)","x":-508,"y":358,"width":250,"height":105},
 		{"id":"33bceee041efbc4a","type":"text","text":"Feudalismo tecnológico","x":325,"y":381,"width":250,"height":60},
-		{"id":"e1349346e8c20fb5","type":"text","text":"Ciencia y democracia en una sociedad multicultural","x":-100,"y":840,"width":250,"height":50},
+		{"id":"e1349346e8c20fb5","type":"text","text":"Ciencia y democracia en una sociedad multicultural","x":-100,"y":840,"width":250,"height":80},
 		{"id":"e3bbe1e0b38812a3","type":"text","text":"Pluralismo epistemológico","x":240,"y":1040,"width":250,"height":60}
 	],
 	"edges":[
