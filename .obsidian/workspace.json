@@ -39,9 +39,9 @@
               "state": {
                 "file": "Tecnologia_y_democracia/Mapa temático.canvas",
                 "viewState": {
-                  "x": 141.92676892266718,
-                  "y": 346.4990324194804,
-                  "zoom": -0.5512180190447824
+                  "x": 68.9757480328771,
+                  "y": -13.917566378922633,
+                  "zoom": -0.20989735096803552
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -232,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,19 +249,19 @@
   "active": "162d922467681f9a",
   "lastOpenFiles": [
     "Tecnologia_y_democracia/Zine/Boceto.md",
-    "Tecnologia_y_democracia/Plan de Trabajo.md",
+    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
     "Tecnologia_y_democracia/Mapa temático.canvas",
+    "Tecnologia_y_democracia/Plan de Trabajo.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
     "Tecnologia_y_democracia/Zine/Ideas.md",
-    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación democracia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación ciencia y democracia.md",
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
     "Tecnologia_y_democracia",
-    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
     "Tecnologia_y_democracia/Ruta de Investigación.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Privacidad.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
