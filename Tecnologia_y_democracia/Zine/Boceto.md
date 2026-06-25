@@ -63,6 +63,7 @@ Texto lmao rip
 ### La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
-taxto por dos y asi 
+texto por dos y así 
+
 
 
