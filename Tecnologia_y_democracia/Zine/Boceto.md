@@ -86,12 +86,15 @@ La gran lección del software libre es que existen formas alternas de construir 
 
 %% Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. %%
 
+
+
 Texto lmao rip
 
 ### La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
 texto por dos y así 
+
 
 
 
