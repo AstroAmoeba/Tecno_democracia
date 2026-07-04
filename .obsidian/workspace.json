@@ -8,12 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e1f6dcbf51ee7ec",
+            "id": "162d922467681f9a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tecnologia_y_democracia/Mapa temático.canvas",
+                "viewState": {
+                  "x": 60.69516747590245,
+                  "y": 402.9362130194554,
+                  "zoom": -0.7098973509680355
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa temático"
+            }
+          },
+          {
+            "id": "501291f282a9f679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Plan de Trabajo.md",
+                "file": "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,28 +45,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plan de Trabajo"
+              "title": "Feudalismo tecnológico"
             }
           },
           {
-            "id": "162d922467681f9a",
+            "id": "d4c0db465a20ca55",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Mapa temático.canvas",
-                "viewState": {
-                  "x": 9.988847773300392,
-                  "y": 655.7572424503891,
-                  "zoom": -0.20989735096803552
+                "file": "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa temático"
+              "icon": "lucide-file",
+              "title": "Catedral y Bazar"
             }
           },
           {
-            "id": "501291f282a9f679",
+            "id": "058a5f782553786d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,18 +270,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "501291f282a9f679",
+  "active": "058a5f782553786d",
   "lastOpenFiles": [
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
     "Tecnologia_y_democracia/Mapa temático.canvas",
     "Tecnologia_y_democracia/Zine/Boceto.md",
-    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
     "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+    "Tecnologia_y_democracia/Plan de Trabajo.md",
+    "Tecnologia_y_democracia/Zine/Ideas.md",
+    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
-    "Tecnologia_y_democracia/Plan de Trabajo.md",
-    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
-    "Tecnologia_y_democracia/Zine/Ideas.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación democracia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación ciencia y democracia.md",

@@ -64,7 +64,7 @@ The magic phrase is “big nudging”, which is the combination of big data with
 ...
 Therefore, whoever controls this technology can win elections—by nudging themselves to power.(Helbing et al., 2019)
 
-Immanuel Kant seem to be highly relevant here. Among other things, he noted that a state that attempts to determine the 7 Will Democracy Survive Big Data and Artificial Intelligence? 77 happiness of its citizens is a despot. However, the right of individual selfdevelopment can only be exercised by those who have control over their lives, which presupposes informational self-determination. This is about nothing less than our most important constitutional rights. A democracy cannot work well unless those rights are respected. If they are constrained, this undermines our constitution, our society and the state. (Helbing et al., 2019)
+Immanuel Kant seem to be highly relevant here. Among other things, he noted that a state that attempts to determine the happiness of its citizens is a despot. However, the right of individual selfdevelopment can only be exercised by those who have control over their lives, which presupposes informational self-determination. This is about nothing less than our most important constitutional rights. A democracy cannot work well unless those rights are respected. If they are constrained, this undermines our constitution, our society and the state. (Helbing et al., 2019)
 
 Burbujas de resonancia --> Polarización social
 

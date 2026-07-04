@@ -18,7 +18,7 @@ Pagina 1 y 2: La Aldea digital. Introducción y panorama. Ilustración completa 
 
 Paginas 3 y 4: Los señores feudales. Vigilancia, manipulación, centralismo. Parte final da pie a la siguiente sección "No tiene que ser así". Ambas paginas con texto e ilustraciones.
 
-Paginas 5 y 6: La catedral y el bazar. Centralismo, desarrollo abierto, software libe, colaboración, ciencia ciudadana, etc. Ambas paginas con texto e ilustraciones.
+Paginas 5 y 6: La catedral y el bazar. Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. Ambas paginas con texto e ilustraciones.
 
 Paginas 7 y 8: La torre de marfil. Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. Ambas paginas con texto e ilustraciones.
 
@@ -31,27 +31,55 @@ Contraportada: Fuentes, ligas, etc.
 ### La aldea digital
 %% Foreword / Panorama %%
 
-?Qué Posible relación pueden tener la tecnología, sus grandes empresas, la ciencia, la brujería, la democracia y el feudalismo? Todos son personajes y escenarios de este relato. 
+¿Qué Posible relación pueden tener la tecnología, sus grandes empresas, la ciencia, la brujería, la democracia y el feudalismo? Todos son personajes y escenarios de este relato. 
 
 La aldea digital somos todos nosotros los que ***interactuamos*** en y con las plataformas digitales: consumidores y creadores de contenido, compradores y vendedores de tiendas en línea, usuarios de redes sociales, de motores de búsqueda, o de casinos virtuales. Si bien las interacciones son ***digitales***, sus consecuencias pueden ser muy ***reales***. 
 
-?Cómo se ve una democracia multicultural entre tantos aldeanos digitales? Que retos, beneficios y contradicciones surgen de estas interacciones? 
+¿Cómo se ve una democracia multicultural entre tantos aldeanos digitales? Que retos, beneficios y contradicciones surgen de estas interacciones? 
 
-.??
+...?
 
 ### Los señores (Tecno) Feudales
 
-%% Sistema centralizado, tecno feudalismo vs democracia %%
-
 En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
 
-Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta. Facebook, X, Amazon y similares no son gratuitos: el producto eres tu. 
+Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta.
 
-%% Final enlace: "No todo tiene que ser así" %%
+El señor tecno-feudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecno feudalismo es el sistema que le permite hacerlo.** 
+
+**La experiencia manufacturada**
+
+Promocionar un producto por encima de otro, mostrar tales o cuales opiniones, noticias y contenidos son decisiones tomadas algorítmicamente por quien tiene el control de las plataformas. 
+
+Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras pero son en realidad, **influenciadas.** 
+
+**Un empujoncito**
+
+Cuando unos pocos tienen la capacidad de influenciar las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento critico del usuario se corren riesgos mucho mas significativos que hacer un par de compras impulsivas: Amenaza nuestro desarrollo personal, social y democrático.
+
+Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. El panorama en el que millones de personas son influenciadas por un sistema centralizado de manipulación superinteligente plantea un escenario hostil a la democracia.
+
+Sin embargo, **las cosas no tienen porque ser de esta forma.** 
+
 ### La catedral y el bazar
-%% Sistemas centralizados vs descentralizados %%
+%% Sistemas centralizados vs %%
+%% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
 
-texto lmao
+Otras formas de hacer software, software libre en el sentido etico
+
+
+Para que una tecnología sea de utilidad a un señor feudal esta debe de estar centralizada, es decir, debe de obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central.  De esta manera, el diseño mismo de las funciones de dicha tecnología gira al en torno al beneficio de quien es dueño de ella. 
+
+Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software de libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
+
+**Más allá del desarrollo de software**
+ 
+La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. 
+
+El desarrollo tipo bazar está asociado inseparablemente al software libre, que a su vez es un concepto mas allá de programas de computadoras. El origen del software libre es en si mismo 
+
+
+
 
 
 
