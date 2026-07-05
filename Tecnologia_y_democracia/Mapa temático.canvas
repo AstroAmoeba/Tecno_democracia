@@ -12,7 +12,7 @@
 		{"id":"049242b0e98deea9","type":"text","text":"Modelos centralizados y descentralizados\n(Catedral y bazar)","x":-508,"y":358,"width":250,"height":105},
 		{"id":"33bceee041efbc4a","type":"text","text":"Feudalismo tecnológico","x":325,"y":381,"width":250,"height":60},
 		{"id":"e1349346e8c20fb5","type":"text","text":"Ciencia y democracia en una sociedad multicultural","x":-100,"y":840,"width":250,"height":80},
-		{"id":"e3bbe1e0b38812a3","type":"text","text":"Pluralismo epistemológico","x":240,"y":1040,"width":250,"height":60}
+		{"id":"e3bbe1e0b38812a3","type":"text","text":"Pluralismo epistemológico","x":240,"y":1080,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e5a2c2a57ba72671","fromNode":"5a10fcd7ae3f28e2","fromSide":"bottom","toNode":"c503a8e87668085f","toSide":"top"},
@@ -22,7 +22,7 @@
 		{"id":"689bb6dde2c74028","fromNode":"fdb9d47eb4317d59","fromSide":"right","toNode":"399ff996c4c333a6","toSide":"left","toEnd":"none"},
 		{"id":"c3602f787acadcf0","fromNode":"399ff996c4c333a6","fromSide":"top","toNode":"404d1f066b49fe68","toSide":"right","toEnd":"none"},
 		{"id":"36bd8d9c52665aca","fromNode":"404d1f066b49fe68","fromSide":"left","toNode":"fdb9d47eb4317d59","toSide":"top","toEnd":"none"},
-		{"id":"a869b807898fb1d6","fromNode":"e1349346e8c20fb5","fromSide":"bottom","toNode":"e3bbe1e0b38812a3","toSide":"top"},
+		{"id":"a869b807898fb1d6","fromNode":"e1349346e8c20fb5","fromSide":"bottom","toNode":"e3bbe1e0b38812a3","toSide":"top","toEnd":"none"},
 		{"id":"bf581cf8f42e24b8","fromNode":"7d679a64428d101c","fromSide":"top","toNode":"c503a8e87668085f","toSide":"bottom"},
 		{"id":"6f3b7c87dc450e82","fromNode":"7d679a64428d101c","fromSide":"top","toNode":"9ba220869fcc0ce6","toSide":"bottom"},
 		{"id":"e1aee32c23168973","fromNode":"7d679a64428d101c","fromSide":"top","toNode":"71de188129c4d03a","toSide":"bottom"}

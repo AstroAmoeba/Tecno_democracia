@@ -11,17 +11,24 @@
             "id": "162d922467681f9a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Mapa temático.canvas",
-                "viewState": {
-                  "x": 121.21561357255678,
-                  "y": 182.11836915328436,
-                  "zoom": -0.7098973509680355
+                "file": "Tecnologia_y_democracia/Notas/Relaciones/Relación democracia y tecnología.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa temático"
+              "icon": "lucide-file",
+              "title": "Relación democracia y tecnología"
             }
           },
           {
@@ -78,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Boceto.md",
+                "file": "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,10 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boceto"
+              "title": "Tabla de fuentes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,25 +277,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff54e4c4541ac5b",
+  "active": "058a5f782553786d",
   "lastOpenFiles": [
     "Tecnologia_y_democracia/Zine/Boceto.md",
-    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
-    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
-    "Tecnologia_y_democracia/Mapa temático.canvas",
-    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
-    "Tecnologia_y_democracia/Plan de Trabajo.md",
     "Tecnologia_y_democracia/Zine/Ideas.md",
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
-    "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
+    "Tecnologia_y_democracia/Ruta de Investigación.md",
+    "Tecnologia_y_democracia/Plan de Trabajo.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación democracia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación ciencia y democracia.md",
-    "Tecnologia_y_democracia",
-    "Tecnologia_y_democracia/Ruta de Investigación.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Privacidad.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
+    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+    "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
+    "Tecnologia_y_democracia/Mapa temático.canvas",
+    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia",
     "Tecnologia_y_democracia/Imagenes/Pasted image 20260424030919.png",
     "Tecnologia_y_democracia/Imagenes/Pasted image 20260424031000.png",
     "Tecnologia_y_democracia/Imagenes",

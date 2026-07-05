@@ -1,10 +1,5 @@
 
-Introducción - desarrollo - conclusion 
-
-Tecno feudalismo - Catedral y bazar - Multiculturalidad y democracia. 
-
-Señores feudales, torres de marfil y aldeanos digitales
-
+**Título tentativo: Señores feudales, torres de marfil y aldeanos digitales**
 
 ## Estructura:
 
@@ -18,14 +13,13 @@ Pagina 1 y 2: La Aldea digital. Introducción y panorama. Ilustración completa 
 
 Paginas 3 y 4: Los señores feudales. Vigilancia, manipulación, centralismo. Parte final da pie a la siguiente sección "No tiene que ser así". Ambas paginas con texto e ilustraciones.
 
-Paginas 5 y 6: La catedral y el bazar. Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. Ambas paginas con texto e ilustraciones.
+Paginas 5 y 6: La catedral y el bazar. Sistemas centralizados y descentralizados, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. Ambas paginas con texto e ilustraciones.
 
-Paginas 7 y 8: La torre de marfil. Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. Ambas paginas con texto e ilustraciones.
+Paginas 7 y 8: La torre de marfil. Relaciones entre ciencia y sociedad, pluralismo y cientificismo,  ciencia y tecnología. Ambas paginas con texto e ilustraciones.
 
-Paginas 9 y 10: La democracia (multicultural, plural y de a deveras): retos, relaciones con ciencia y tecnología, opciones.  Conclusion. Ambas paginas con texto e ilustraciones.
+Paginas 9 y 10: La democracia (multicultural, plural y *de a deveras*): retos, relaciones con ciencia y tecnología, opciones.  Conclusion. Ambas paginas con texto e ilustraciones.
 
 Contraportada: Fuentes, ligas, etc. 
-
 
 ## Contenido
 ### La aldea digital
@@ -69,7 +63,7 @@ Para que una tecnología sea de utilidad a un señor feudal esta debe de estar c
 
 Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software de libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
 
-**Más allá de software, libertad**.
+**Más allá del software, libertad**.
  
 La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. 
 
@@ -82,7 +76,6 @@ Por otro lado, el software libre es completamente transparente en su funcionamie
 La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa a los usuarios. 
 
 ### La torre de marfil
-%% Cientificismo vs pluralismo  %%
 
 %% Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. %%
 
@@ -90,12 +83,12 @@ La Torre de Marfil como metáfora del lugar en que habitan científicos e invest
 
 La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe. En este sentido, la torre de marfil es similar a la catedral: una practica cerrada y a menudo confidencial, llevada a cabo por grupos pequeños de personas y que no necesariamente contempla el beneficio social como un fin. Los productos de una ciencia "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_. 
 
-
+En el contexto del tecno feudalismo, la relación ciencia y tecnología y la responsabilidad social del científico... 
 
 ### La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
-texto por dos y así 
+texto 
 
 
 
