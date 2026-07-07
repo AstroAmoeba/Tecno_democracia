@@ -9,10 +9,11 @@
 | Democracy (Christiano & Bajaj, 2024)                                                                                                                  | L   | U   |     |
 | Dewey’s Political Philosophy (Festenstein, 2023)                                                                                                      | L   | U   |     |
 | The cathedral and the bazaar                                                                                                                          | L   | U   |     |
+| The Ivory Tower: the history of a figure of speech and its cultural uses                                                                              | L   | U   |     |
+| Software libre en educación                                                                                                                           |     | U   |     |
+| The Cathedral and the Bazaar (Wiki)                                                                                                                   | L   | U   |     |
 
-## Tecnofeudalismo
+# Por tema
 
-Techno feudalism wiki
-
-Elena Rosini 
-
+### Tecnofeudalismo
+...
