@@ -35,24 +35,12 @@
             "id": "d4c0db465a20ca55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Boceto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Tecnologia_y_democracia/Zine/Preview.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Boceto"
+              "icon": "lucide-file-text",
+              "title": "Preview"
             }
           }
         ],
@@ -233,6 +221,8 @@
   },
   "active": "d4c0db465a20ca55",
   "lastOpenFiles": [
+    "Tecnologia_y_democracia/Zine/Boceto.md",
+    "Tecnologia_y_democracia/Zine/Preview.pdf",
     "Tecnologia_y_democracia/Zine/Pendientes.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
@@ -252,7 +242,6 @@
     "Tecnologia_y_democracia/Ruta de Investigación.md",
     "Tecnologia_y_democracia/Plan de Trabajo.md",
     "Tecnologia_y_democracia/Zine/Ideas.md",
-    "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
     "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
     "README.MD.md",
@@ -269,7 +258,6 @@
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad",
     "Tecnologia_y_democracia/Notas/Catedral y Bazar",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico",
-    "Tecnologia_y_democracia/Artículo",
-    "Tecnologia_y_democracia/Zine"
+    "Tecnologia_y_democracia/Artículo"
   ]
 }
