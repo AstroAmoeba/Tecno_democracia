@@ -1,7 +1,7 @@
 
 **Título tentativo: Señores feudales, torres de marfil y aldeanos digitales**
 
-## Estructura:
+# Estructura:
 
 Zine de 3 hojas, con 10 páginas portada y contraportada. 
 
@@ -21,8 +21,8 @@ Paginas 9 y 10: La democracia (multicultural, plural y *de a deveras*): retos, r
 
 Contraportada: Fuentes, ligas, etc. 
 
-## Contenido
-### La aldea digital
+# Contenido
+## La aldea digital
 %% Foreword / Panorama %%
 
 ¿Qué Posible relación pueden tener la tecnología, sus grandes empresas, la ciencia, la brujería, la democracia y el feudalismo? Todos son personajes y escenarios de este relato. 
@@ -33,7 +33,7 @@ La aldea digital somos todos nosotros los que ***interactuamos*** en y con las p
 
 ...?
 
-### Los señores (Tecno) Feudales
+## Los señores (Tecno) Feudales
 
 En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
 
@@ -41,13 +41,13 @@ Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los
 
 El señor tecno-feudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecno feudalismo es el sistema que le permite hacerlo.** 
 
-**La experiencia manufacturada**
+#### **La experiencia manufacturada**
 
 Promocionar un producto por encima de otro, mostrar tales o cuales opiniones, noticias y contenidos son decisiones tomadas algorítmicamente por quien tiene el control de las plataformas. 
 
 Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras pero son en realidad, **influenciadas.** 
 
-**Un empujoncito**
+#### **Un empujoncito**
 
 Cuando unos pocos tienen la capacidad de influenciar las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento critico del usuario se corren riesgos mucho mas significativos que hacer un par de compras impulsivas: Amenaza nuestro desarrollo personal, social y democrático.
 
@@ -55,7 +55,7 @@ Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. E
 
 Sin embargo, **las cosas no tienen porque ser de esta forma.** 
 
-### La catedral y el bazar
+## La catedral y el bazar
 %% Sistemas centralizados vs %%
 %% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
 
@@ -63,7 +63,7 @@ Para que una tecnología sea de utilidad a un señor feudal esta debe de estar c
 
 Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
 
-**Más allá del software, libertad**.
+ #### **Más allá del software, libertad**.
  
 La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. 
 
@@ -75,7 +75,7 @@ Por otro lado, el software libre es completamente transparente en su funcionamie
 
 La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa a estos.
 
-### La torre de marfil
+## La torre de marfil
 
 %% Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. %%
 
@@ -85,18 +85,28 @@ La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abst
 
 El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento. Debe de ser consciente de que el sujeto e su investigación, la manera en que lo comunica y con quién colabora tiene un efecto directo. Una ciencia responsable busca investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del publico. 
 
-**Salir de la torre y abrir la catedral**
+#### **Salir de la torre y abrir la catedral**
 
 La ciencia no tiene porque seguir la estructura de la catedral ni debe existir aislada en una torre de marfil. Una ciencia que invite a la colaboración, revisión y a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que democratiza la información e invita a la participación (además de beneficiarse de la "ley de Linus")
 
-Para construir una ciencia y tecnología democrática, que sierva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo "no cientifico" de simple brujería sino apreciando los diversos tipos de saberes. 
+Para construir una ciencia y tecnología democrática, que sierva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo *no-científico* de simple *brujería* sino apreciando los diversos tipos de saberes. 
 
 La ciencia que necesita la aldea digital no es la que fabrica *empujoncitos*, sino la que enseña a ver los hilos del titiritero.
 
-### La democracia
+## La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
-texto 
+¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define que es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que viéramos.  tan libre es nuestro acceso a la información?  ¿Qué tan ***nuestras*** son nuestras decisiones? ¿Qué sucede cuando empujoncito a empujoncito, se manipula la opinion de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
+
+El feudalismo tecnológico plantea un escenario perfecto para la manipulation sistémica mediante la desinformación, cámaras de resonancia, polarización, etc. ¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecno feudales? 
+
+#### **Las trincheras**
+
+Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día. 
+
+
+
+
 
 
 
