@@ -81,9 +81,17 @@ La gran lección del software libre es que existen formas alternas de construir 
 
 La Torre de Marfil como metáfora del lugar en que habitan científicos e investigadores, desconectados del resto de la sociedad y ocupándose ensimismados en labores abstractas e incomprensibles surge en parte en el contexto de una sociedad americana que se enfrenta a la segunda guerra mundial y que celebra la salida de sus científicos de la torre de marfil para dedicar su trabajo a la elaboración de la tecnología (principalmente armas) que definirá eventualmente el curso de la guerra y de lo que seguiría después de esta. 
 
-La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe. En este sentido, la torre de marfil es similar a la catedral: una practica cerrada y a menudo confidencial, llevada a cabo por grupos pequeños de personas y que no necesariamente contempla el beneficio social como un fin. Los productos de una ciencia "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_. 
+La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe. En este sentido, la torre de marfil es similar a la catedral: una practica cerrada y a menudo confidencial, llevada a cabo por grupos pequeños de personas y que no necesariamente contempla el beneficio social como un fin. Los productos de una ciencia "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_ y cuando esta se desarrolla bajo la lógica del tecnofeudalismo, tiende a ponerse al servicio de quien financia o controla los medios de producción tecnológica.
 
-En el contexto del tecno feudalismo, la relación ciencia y tecnología y la responsabilidad social del científico... 
+El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento. Debe de ser consciente de que el sujeto e su investigación, la manera en que lo comunica y con quién colabora tiene un efecto directo. Una ciencia responsable busca investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del publico. 
+
+**Salir de la torre y abrir la catedral**
+
+La ciencia no tiene porque seguir la estructura de la catedral ni debe existir aislada en una torre de marfil. Una ciencia que invite a la colaboración, revisión y a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que democratiza la información e invita a la participación (además de beneficiarse de la "ley de Linus")
+
+Para construir una ciencia y tecnología democrática, que sierva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo "no cientifico" de simple brujería sino apreciando los diversos tipos de saberes. 
+
+La ciencia que necesita la aldea digital no es la que fabrica *empujoncitos*, sino la que enseña a ver los hilos del titiritero.
 
 ### La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
