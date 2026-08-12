@@ -24,9 +24,6 @@ Contiene una serie de notas organizadas temáticamente por carpetas y sub carpet
 
 Contiene lo pertinente a la elaboración del zine, como un boceto del texto propuesto, ideas y lista de pendientes. 
 
-### 📄 Plan de trabajo 
-
-Archivo pertinente a un plan de trabajo para la elaboración del zine. 
 
 ### 🖍️Mapa temático
 
