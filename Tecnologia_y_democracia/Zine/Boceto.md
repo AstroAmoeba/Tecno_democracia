@@ -107,3 +107,9 @@ Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos e
 La cuestión de la manera en que se construye, como se distribuye y con que fin se hace la ciencia y la tecnología es de suma importancia en este aspecto. Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones. El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta.
 
 Una democracia multicultural que reconoce la validez de los distintos tipos de saberes no requiere que todos los ciudadanos sean científicos o ingenieros del algoritmo, pero si que exista el diálogo entre diferentes perspectivas y una genuina participación ciudadana. La ciencia abierta, el software libre, la educación crítica y la organización comunitaria son las herramientas para desmontar la torre, abrir la catedral y plantar, en su lugar, una plaza pública.
+
+## Contraportada
+
+...
+
+qr?
