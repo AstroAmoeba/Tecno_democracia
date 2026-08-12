@@ -17,7 +17,7 @@ Paginas 5 y 6: La catedral y el bazar. Sistemas centralizados y descentralizados
 
 Paginas 7 y 8: La torre de marfil. Relaciones entre ciencia y sociedad, pluralismo y cientificismo,  ciencia y tecnología. Ambas paginas con texto e ilustraciones.
 
-Paginas 9 y 10: La democracia (multicultural, plural y *de a deveras*): retos, relaciones con ciencia y tecnología, opciones.  Conclusin. Ambas paginas con texto e ilustraciones.
+Paginas 9 y 10: La democracia (multicultural, plural y *de a deveras*): retos, relaciones con ciencia y tecnología, opciones.  Conclusión. Ambas paginas con texto e ilustraciones.
 
 Contraportada: Fuentes, ligas, etc. 
 
