@@ -29,7 +29,7 @@ Contraportada: Fuentes, ligas, etc.
 
 La aldea digital somos todos nosotros los que ***interactuamos*** en y con las plataformas digitales: consumidores y creadores de contenido, compradores y vendedores de tiendas en línea, usuarios de redes sociales, de motores de búsqueda, o de casinos virtuales. Si bien las interacciones son ***digitales***, sus consecuencias pueden ser muy ***reales***. 
 
-¿Cómo se ve una democracia multicultural entre tantos aldeanos digitales? Que retos, beneficios y contradicciones surgen de estas interacciones? 
+¿Cómo se ve una democracia multicultural entre tantos aldeanos digitales? ¿Qué retos, beneficios y contradicciones surgen de estas interacciones? 
 
 ...?
 
@@ -59,9 +59,9 @@ Sin embargo, **las cosas no tienen porque ser de esta forma.**
 %% Sistemas centralizados vs %%
 %% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
 
-Para que una tecnología sea de utilidad a un señor feudal esta debe de estar centralizada, es decir, debe de obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central.  De esta manera, el diseño mismo de las funciones de dicha tecnología gira al en torno al beneficio de quien es dueño de ella. 
+Para que una tecnología sea de utilidad a un señor feudal esta debe de estar centralizada, es decir, debe de obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central.  De esta manera, el diseño mismo de las funciones de dicha tecnología gira en torno al beneficio de quien es dueño de ella. 
 
-Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software de libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
+Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
 
 **Más allá del software, libertad**.
  
@@ -73,7 +73,7 @@ El software propietario funciona muchas veces como una caja negra, en donde el u
 
 Por otro lado, el software libre es completamente transparente en su funcionamiento y se invita a los usuarios a volverse colaboradores, modificarlo según sus necesidades y compartir sus propuestas. 
 
-La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa a los usuarios. 
+La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa a estos.
 
 ### La torre de marfil
 
