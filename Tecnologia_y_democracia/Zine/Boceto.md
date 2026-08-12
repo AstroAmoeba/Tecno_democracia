@@ -102,7 +102,9 @@ El feudalismo tecnológico plantea un escenario perfecto para la manipulation si
 
 #### **Las trincheras**
 
-Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día. 
+Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día. Frente al tecnofeudalismo la defensa de los ideales democráticos desde la ciencia y la tecnología resultan el siguiente paso lógico. 
+
+
 
 
 
