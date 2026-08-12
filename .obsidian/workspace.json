@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
+                "file": "Tecnologia_y_democracia/Zine/Boceto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Catedral y Bazar"
+              "title": "Boceto"
             }
           }
         ],
@@ -100,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -255,6 +257,7 @@
   },
   "active": "d4c0db465a20ca55",
   "lastOpenFiles": [
+    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
@@ -272,7 +275,6 @@
     "Tecnologia_y_democracia/Notas/Relaciones/Relación ciencia y democracia.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Privacidad.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
-    "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
     "Tecnologia_y_democracia",
     "Tecnologia_y_democracia/Imagenes/Pasted image 20260424030919.png",
