@@ -43,8 +43,7 @@
               "title": "Preview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4c0db465a20ca55",
+  "active": "501291f282a9f679",
   "lastOpenFiles": [
-    "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Zine/Preview.pdf",
+    "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Zine/Pendientes.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
