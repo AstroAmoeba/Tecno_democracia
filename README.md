@@ -3,7 +3,6 @@ En el presente repositorio se presentan los contenidos pertinentes a la realizac
 
 # Contenidos
 
-
 ### 📁Artículo
 
 Contiene archivos relacionados a la elaboración de un artículo.

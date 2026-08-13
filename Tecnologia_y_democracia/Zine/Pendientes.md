@@ -6,6 +6,11 @@
 - [ ] Arreglar errores de compatibilidad de MD (obsidian - github)
 
 
+- [ ] Revisión del texto del Zine
+- [ ] Generar elementos gráficos
+- [ ] Integración en CONVIDA
+- [ ] Diseño de imprimible / PDF
+
 ### Contenidos
 
 
